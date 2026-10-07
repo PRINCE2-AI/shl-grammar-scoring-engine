@@ -1,0 +1,10 @@
+# competition data and run artefacts are never committed
+*.wav
+*.csv
+*.npy
+*.npz
+*.json
+!requirements.txt
+data/
+work/
+.ipynb_checkpoints/
